@@ -1,6 +1,6 @@
 # Powershell 1
  
-| Shell | lien utilisé | powershell |
+| linux | lien utilisé | powershell |
 | :-------: | :--------------: | :----------------: |
 | cp | get-alias \*cp* | Copy-Item |
 | rm | get-alias \*rm* | Remove-Item |
